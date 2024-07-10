@@ -1,3 +1,4 @@
+#DAY 10: LOOPS
 #EXERCISE LEVEL 1:
 #1. Iterate 0 to 10 using for loop, do the same using while loop.
 for num in range(0, 11):
@@ -127,6 +128,7 @@ sorted_countries = sorted(countries_data, key=lambda x: x['population'], reverse
 #function siya pero maba ug pwede 1 line. pero d siya ma reuse
 #pwede bsan pila nga parameter pero isa ra ka expression ang mabuhat
 top_ten_languages = sorted_countries[:10]
+# print("TOP 10: ",top_ten_languages)
 print('Top 10 populated countries:')
 for index, country in enumerate(top_ten_languages, start=1):
   print(f"{index}. {country['name']} - Population: {country['population']}")

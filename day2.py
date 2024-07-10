@@ -1,3 +1,4 @@
+#variables and builtin functions
 #day 2:
 import math #para maka kuha sa pi value
 # #level 1:

@@ -1,3 +1,5 @@
+#strings
+#day4:
 #1.
 a = 'thirty'
 b = 'days'

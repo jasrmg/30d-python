@@ -1,3 +1,4 @@
+#Day 6: Tuples
 #LEVEL 1:
 #1. Create an empty tuple
 my_tpl = tuple() #or my_tpl = ()

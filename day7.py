@@ -1,3 +1,4 @@
+#DAY 7: TUPLES
 #EXERCISE LEVEL 1:
 # sets
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}

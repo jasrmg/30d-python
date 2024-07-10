@@ -1,3 +1,4 @@
+#operators
 #day3:
 # 1. age = 22
 # 2. height = 169.69
